@@ -12,7 +12,7 @@ For this assignment, I have been asked to:
 
 In this repository, you will find:
 - Resources folder: containing the CSV files provided for this assignment;
-- Result folder: containg two SQL files and one JPG file. 
+- Result folder: containing two SQL files and one JPG file with the results of the assignment. 
 
 ## Result
 
